@@ -20,6 +20,10 @@
 
 - encoder，编码器
 
+## P
+
+- PEFT，Parameter-Efficient Fine-Tuning的简写，参数高效微调框架
+
 ## S
 
 - SFT，Supervised Fine-Tuning简写，有监督的微调
