@@ -15,6 +15,7 @@
 ## D
 
 - decoder，解码器
+- DeepSpeed，微软发布的基于PyTorch的分布式训练库
 
 ## E
 
