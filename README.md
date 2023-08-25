@@ -37,12 +37,14 @@
 ## L
 
 - Layernorm，从隐藏层的维度做归一化
+- 
 
 ## M
 
 - MLM，Masked Language Model的简写，遮蔽语言模型
 - MQA，Muti Query Attention，一种加快计算速度的注意力机制
 - Muti-head Attention，多头注意力机制
+- MC learning，Monte-Carlo Reinforcement Learning，蒙特卡洛强化学习
 
 ## P
 
@@ -56,6 +58,7 @@
 - Reward model，奖励模型
 - RLHF，Reinforcement Learning from Human Feedback的简写，以强化学习方式依据人类反馈优化语言模型
 - Reparameterization-based，重参数化微调
+- RL，Reinforcement Learning的简写，强化学习
 
 ## S
 
@@ -67,6 +70,7 @@
 ## T
 
 - transformer，2017年的一篇论文《Attention is All You Need》提出的一种基于注意力机制的神经网络模型架构
+- TD learning，Temporal Difference，时序差分强化学习
 
 ## W
 
