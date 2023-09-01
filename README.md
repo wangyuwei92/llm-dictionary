@@ -10,6 +10,7 @@
 - BPE，Byte Pair Encoding的简写，一种子词分词算法
 - BatchNorm，对一个batch中的样本做归一化
 - batch size，一次训练的样本数目
+- BGE，BAAI General Embedding的简写，智源开源的词向量模型，
 
 ## C
 
@@ -36,7 +37,7 @@
 
 - GELU，Gaussian Error Linear Unit的简写，一种激活函数
 - Grouped query attention，基于MQA改进的注意力机制
-- 
+- GPTQ, Accurate Post-Training Quantization for Generative Pre-trained Transformers的简写，一种大模型量化方法
 
 ## H
 
@@ -71,6 +72,10 @@
 - PPO, Proximal Policy Optimization, 强化学习中近短策略优化算法
 - prompt, 提示工程
 
+## Q
+
+- 
+
 ## R
 
 - RoPE，Rotary Position Embedding的简写，旋转位置编码
@@ -93,6 +98,12 @@
 - transformer，2017年的一篇论文《Attention is All You Need》提出的一种基于注意力机制的神经网络模型架构
 - TD learning，Temporal Difference，时序差分强化学习
 - TRPO, rust region policy optimization的简称, 强化学习中信赖域策略优化
+- Triton, OpenAI开源的GPU编程语言
+- text2vec, 一般指https://huggingface.co/GanymedeNil/text2vec-large-chinese
+
+## U
+
+- unilm, Uniﬁed Language Model的简写，统一语言模型，微软在BERT基础上提出的预训练语言模型
 
 ## V
 
